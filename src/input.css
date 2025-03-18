@@ -52,4 +52,8 @@ input::placeholder {
   }
 
 
-  
+  @media (max-width: 600px) {
+        .container {
+          width: 87%;
+    }
+}
